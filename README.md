@@ -3,15 +3,15 @@ FOOD APPLICATION
 
 
 Login page
-![image](https://user-images.githubusercontent.com/57608195/200919653-119d4646-2ecd-4af5-a415-79cdf822d21b.png)
+![image](https://user-images.githubusercontent.com/57608195/200921115-12f5f1e3-e8a1-4f26-8293-802f9792b534.png)
 
 
 Sign up page
-![image](https://user-images.githubusercontent.com/57608195/200919761-8fd895ea-f8a0-475c-b360-22fc2e7d2e4f.png)
+![image](https://user-images.githubusercontent.com/57608195/200921278-f14c94ed-618d-4543-8aee-0ebb3c16592a.png)
 
 
 Filling Details
-![image](https://user-images.githubusercontent.com/57608195/200920557-c3eacf8b-bdef-41a8-ba27-1accf7792d7c.png)
+![image](https://user-images.githubusercontent.com/57608195/200921399-716d787a-f4e4-4268-aa84-fe421d959df3.png)
 
 
 landing page after loging in
